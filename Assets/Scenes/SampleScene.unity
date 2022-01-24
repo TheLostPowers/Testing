@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 592247854}
   - component: {fileID: 592247853}
   m_Layer: 0
-  m_Name: Sphere (1)
+  m_Name: afd
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -233,7 +233,7 @@ GameObject:
   - component: {fileID: 633748911}
   - component: {fileID: 633748910}
   m_Layer: 0
-  m_Name: Sphere (2)
+  m_Name: daf
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -330,7 +330,7 @@ GameObject:
   - component: {fileID: 1964087177}
   - component: {fileID: 1964087176}
   m_Layer: 0
-  m_Name: Sphere (3)
+  m_Name: fdsda
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -427,7 +427,7 @@ GameObject:
   - component: {fileID: 2064688677}
   - component: {fileID: 2064688676}
   m_Layer: 0
-  m_Name: Sphere
+  m_Name: dasf
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
